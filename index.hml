@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Counter</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Counter</h1>
+    <div id="countDisplay">0</div>
+    <div class="buttons">
+      <button id="decrementButton">-</button>
+      <button id="incrementButton">+</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
